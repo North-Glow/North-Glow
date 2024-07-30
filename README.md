@@ -24,7 +24,8 @@ De intereses variados y de constante aprendizaje, manejando habilidades que gene
 </p>
 
 <br><br>
-
+# 📈 Estadisticas
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=North-Glow&theme=blue-green"/>
 </p>
