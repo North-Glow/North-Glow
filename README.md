@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=QA_Tester&animation=twinkling&fontSize=45"/>
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/daniel-corpus-410b12117">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/daniel-corpus-410b12117">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </img>
   </a>
 </p>
 <br>
