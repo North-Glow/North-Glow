@@ -24,7 +24,7 @@ I am a QA Analyst and tester who is just starting in the field. As a tech enthus
 
 Want to know more?
 
-📧 Ld090594@gmail.com
+📧 Ld_090594@hotmail.com
 
   <a href="https://www.linkedin.com/in/daniel-corpus-410b12117">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
