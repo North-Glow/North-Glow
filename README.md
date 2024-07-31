@@ -12,7 +12,7 @@
 
 #  Hi there, Nice to meet you 👋
 
-I am a QA Analyst and tester who is just starting in the field. As a tech enthusiast, I have a strong thirst for knowledge and a deep curiosity for understanding the inner workings of the world around me. My passion lies in making a positive impact and leaving my mark on the path ahead.
+I am a QA Engineer and tester who is just starting in the field. As a tech enthusiast, I have a strong thirst for knowledge and a deep curiosity for understanding the inner workings of the world around me. My passion lies in making a positive impact and leaving my mark on the path ahead.
 
 🗃️ Currently, I am honing my skills and expanding my knowledge through online resources, with a focus on practicing python and learning JavaScript.
 
