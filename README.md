@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=QA_Tester&animation=twinkling&fontSize=45"/>
+  <img src="https://github.com/user-attachments/assets/87f8d659-452f-4100-bf2b-70b62a38c998"/>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-corpus-410b12117">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -9,23 +10,51 @@
 </p>
 <br>
 
-#  Bienvenido ✒️ Soy Daniel Corpus, Encantado de conocerte
+#  Hi there, Nice to meet you 👋
 
-Profesionista en constante crecimiento, me gusta contemplar el funcionamiento de las cosas y aportar a la optimización de procesos.
+I am a QA Analyst and tester who is just starting in the field. As a tech enthusiast, I have a strong thirst for knowledge and a deep curiosity for understanding the inner workings of the world around me. My passion lies in making a positive impact and leaving my mark on the path ahead.
 
-De intereses variados y de constante aprendizaje, manejando habilidades que generan resultados visibles dando énfasis a aquello que funciona detrás.
+🗃️ Currently, I am honing my skills and expanding my knowledge through online resources, with a focus on practicing python and learning JavaScript.
+
+⚙️ I take my responsibilities seriously and have experience working in teams, thanks to my previous background.
+
+📊 I like to optimize workflows and identify new opportunities within a given environment.
 
 <br>
 
-# 🛠️ Herramientas
+Want to know more?
+
+📧 Ld090594@gmail.com
+
+  <a href="https://www.linkedin.com/in/daniel-corpus-410b12117">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </img>
+  </a>
+
+<br><br>
+
+# 🛠️ Technologies & Tools
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,postgres,postman,py,html,css,androidstudio,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,postman,androidstudio,pycharm,vscode" />
 </p>
 
 <br><br>
-# 📈 Estadisticas
+
+<p align="center">
+Programming languages
+<br><br>
+    <img src="https://github.com/user-attachments/assets/a54577a4-8ac8-4c41-ba0a-2b0901764adc"/>
+    <img src="https://github.com/user-attachments/assets/c38cf378-6b99-46b4-9c52-3a53ec6848e8"/>
+    <img src="https://github.com/user-attachments/assets/240d0d7d-9281-4e5b-a587-180ea830ce22"/>
+</p>
+
+
+<br><br><br>
+# 📈 Stactics & Data
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=North-Glow&theme=blue-green"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=North-Glow&theme=zenburn"/> <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=North-Glow&theme=zenburn"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=North-Glow&theme=zenburn"/>
 </p>
