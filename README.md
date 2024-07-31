@@ -51,7 +51,7 @@ Programming languages
 
 
 <br><br><br>
-# 📈 Stactics & Data
+# 📈 Statics & Data
 <br>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=North-Glow&theme=zenburn"/> <br>
